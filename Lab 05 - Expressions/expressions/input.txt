@@ -1,0 +1,25 @@
+Expression: 34 + 4 * 21 / 7 + 14
+Infix:
+Postfix:
+Prefix:
+Value:
+Expression: 42 + 42 * 42 - 42 / 42 % 42 + 42 * 42 - 42 / 42 % 42 + 42 + 42 * 42 - 42 / 42 % 42 + 42 * 42 - 42 / 42 % 42 + 42 + 42 * 42 - 42 / 42 % 42 + 42 * 42 + 42 + 42 + 42 / 42 % 42 + 42 * 42 + 42 + 42 / 42 % 42 % 42
+Infix:
+Postfix:
+Prefix:
+Value:
+Expression: 40 * { 2 + 4 - ( 2 + 2 ) } - 4 / 5 / 6
+Infix:
+Postfix:
+Prefix:
+Value:
+Expression: [ ( 3 + 46 ) * { 3 - 2 } - ( 2 / 2 ) ] + 24 / 3
+Infix:
+Postfix:
+Prefix:
+Value:
+Expression: ( 0 + ( 1 - ( 2 + ( 3 - ( 4 + ( 5 - ( 6 + ( 7 - ( 8 + 9 ) ) ) ) ) ) ) ) )
+Infix:
+Postfix:
+Prefix:
+Value:

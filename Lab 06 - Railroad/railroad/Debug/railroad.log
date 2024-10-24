@@ -1,0 +1,37 @@
+﻿  railroad.cpp
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(102,2): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(94): message : while compiling class template member function 'std::string Station<std::string>::find(T)'
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(94): message :         with
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(94): message :         [
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(94): message :             T=std::string
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(94): message :         ]
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\railroad.cpp(94): message : see reference to function template instantiation 'std::string Station<std::string>::find(T)' being compiled
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\railroad.cpp(94): message :         with
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\railroad.cpp(94): message :         [
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\railroad.cpp(94): message :             T=std::string
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\railroad.cpp(94): message :         ]
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\railroad.cpp(42): message : see reference to class template instantiation 'Station<std::string>' being compiled
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(110,2): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(118,2): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(19,2): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(16): message : while compiling class template member function 'void MyDeque<T>::fixCapacity(void)'
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(16): message :         with
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(16): message :         [
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(16): message :             T=std::string
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(16): message :         ]
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(62): message : see reference to function template instantiation 'void MyDeque<T>::fixCapacity(void)' being compiled
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(62): message :         with
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(62): message :         [
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(62): message :             T=std::string
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyDeque.h(62): message :         ]
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyVector.h(11): message : see reference to class template instantiation 'MyDeque<T>' being compiled
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyVector.h(11): message :         with
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyVector.h(11): message :         [
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyVector.h(11): message :             T=std::string
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\MyVector.h(11): message :         ]
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(13): message : see reference to class template instantiation 'MyVector<T>' being compiled
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(13): message :         with
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(13): message :         [
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(13): message :             T=std::string
+D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\railroad\Station.h(13): message :         ]
+  railroad.vcxproj -> D:\OneDrive - BYU Office 365\CS 235\Lab 06 - Railroad\Debug\railroad.exe

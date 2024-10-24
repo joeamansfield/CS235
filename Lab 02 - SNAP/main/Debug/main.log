@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(183,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(192,21): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(203,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(206,21): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(212,23): warning C4018: '<': signed/unsigned mismatch
+D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\main\main.cpp(220,23): warning C4018: '<': signed/unsigned mismatch
+  main.vcxproj -> D:\OneDrive - BYU Office 365\CS 235\Lab 02 - SNAP\Debug\main.exe

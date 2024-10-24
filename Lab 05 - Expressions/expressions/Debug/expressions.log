@@ -1,0 +1,3 @@
+﻿  expressions.cpp
+D:\OneDrive - BYU Office 365\CS 235\Lab 05 - Expressions\expressions\ExpressionManager.h(61): warning C4715: 'ExpressionManager::checkPreced': not all control paths return a value
+  expressions.vcxproj -> D:\OneDrive - BYU Office 365\CS 235\Lab 05 - Expressions\Debug\expressions.exe
